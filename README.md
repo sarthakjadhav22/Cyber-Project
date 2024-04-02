@@ -6,8 +6,7 @@ Welcome to our Event Management App project! This app is designed to streamline 
 
 ### User Authentication
 - Secure registration and login for users.
-- Password hashing and encryption for enhanced security.
-
+- 
 ### User Features
 - Registration for upcoming events.
 - Notification system for updates on registered events.
@@ -19,7 +18,6 @@ Welcome to our Event Management App project! This app is designed to streamline 
 - Dashboard for monitoring event statistics and managing user interactions.
 
 ## Technologies Used
-
 ### Flutter
 Flutter is a cross-platform UI toolkit developed by Google. It allows developers to create natively compiled applications for mobile, web, and desktop from a single codebase. Our app leverages Flutter for its robust and customizable user interface, ensuring a smooth user experience across different platforms.
 
@@ -37,10 +35,6 @@ To run the app locally or on your device, follow these steps:
 3. Ensure Flutter is installed on your system. If not, follow the official Flutter installation guide: [Flutter Installation](https://flutter.dev/docs/get-started/install)
 4. Set up Firebase project and add your Firebase configuration to the app. Refer to the Firebase documentation for detailed instructions: [Firebase Documentation](https://firebase.google.com/docs)
 5. Run the app: `flutter run`
-
-## Contributing
-
-We welcome contributions from developers of all skill levels. If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes. Be sure to follow our contribution guidelines and code of conduct.
 
 ## Contact
 
